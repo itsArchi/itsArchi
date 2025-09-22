@@ -2,7 +2,7 @@
 <p align="center">
   <b>Software Engineer | Frontend & Backend Developer | Full Stack Developer</b><br>
   <a href="https://www.linkedin.com/in/rohim48/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.noerrohim.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square"></a>
+  <a href="www.noerrohim.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square"></a>
 </p>
 
 ---
@@ -19,7 +19,7 @@ I'm a passionate full stack developer who loves building impactful digital solut
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rohim48/)
-- [Personal Website](https://www.noerrohim.vercel.app)
+- [Personal Website](www.noerrohim.vercel.app)
 
 ---
 
