@@ -10,7 +10,7 @@
 ### 🚀 About Me
 I'm a passionate full stack developer who loves building impactful digital solutions. I specialize in both frontend and backend development, working with modern frameworks and technologies to bring ideas to life.
 
-- 💻 **Languages & Frameworks:** React.js, Next.js, Express.js, Nest.js, React Native, Laravel, Tailwind CSS
+- 💻 **Languages & Frameworks:** React.js, Next.js, Express.js, Nest.js, React Native, Laravel, Tailwind CSS, and more.
 - 🌱 Always learning new technologies and best practices
 - 🛠️ Open to collaborating on innovative projects
 
